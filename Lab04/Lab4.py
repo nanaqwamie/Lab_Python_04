@@ -80,3 +80,17 @@ print('')
 print 'Come to shoprite! We always sell :'
 for i in range(1,len(always_in_stock)):
     print always_in_stock[i]
+
+print('')
+print'(4a)'
+print('')
+print 'dictionaries and lists can be uesd to stoere the different market prices'.
+
+print('')
+print'(3b)'
+print('')
+def binary_insert(new_float,some_list_of_floats):
+    
+#modifies the input list to include the new_float
+    
+return
